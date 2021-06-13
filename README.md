@@ -23,6 +23,44 @@ You can refer to the datailed explanation of algorithm in our report which will 
 ## Demo
 Here is demonstration of some search result
 
+cloud computing
+
 ![cloud computing](https://github.com/daxixi/Mentor-Relate/blob/main/result/cloud%20computing.PNG)
+
+complier optimization
+
+![complier,optimization](https://github.com/daxixi/Mentor-Relate/blob/main/result/complier%2Coptimization.PNG)
+
+counting and sampling algorithms
+
+![counting and sampling algorithms](https://github.com/daxixi/Mentor-Relate/blob/main/result/counting%20and%20sampling%20algorithms.PNG)
+
+gesture recognition
+
+![gesture,recognition](https://github.com/daxixi/Mentor-Relate/blob/main/result/gesture%2Crecognition.PNG)
+
+interpreting ai
+
+![interpreting,ai](https://github.com/daxixi/Mentor-Relate/blob/main/result/interpreting%2Cai.PNG)
+
+language model
+
+![language,model](https://github.com/daxixi/Mentor-Relate/blob/main/result/language%2Cmodel.PNG)
+
+optical coherence tomography
+
+![optical coherence tomography](https://github.com/daxixi/Mentor-Relate/blob/main/result/optical%20coherence%20tomography.PNG)
+
+reinforcement learning
+
+![reinforcement,learning](https://github.com/daxixi/Mentor-Relate/blob/main/result/reinforcement%2Clearning.PNG)
+
+traffic ai
+
+![traffic,ai](https://github.com/daxixi/Mentor-Relate/blob/main/result/traffic%2Cai.PNG)
+
+program verification
+
+![program verification](https://github.com/daxixi/Mentor-Relate/blob/main/result/program%20verification.PNG)
 ## Acknowledgement
 Sincere thanks to professor Liyao Xiang and Dr. Jungang Yang, Dr Hui Xu and Dr Mingze Li for help in this project.
