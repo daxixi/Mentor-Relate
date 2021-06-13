@@ -20,5 +20,9 @@ Our algorithm is implemented in the backend program main.py. To start up the pro
 * Imgs. You need to download the imgs of professors in the folder image. Each image should have the name the same as data in pickle file with .PNG ending.
 
 You can refer to the datailed explanation of algorithm in our report which will be uploader later
+## Demo
+Here is demonstration of some search result
+
+![cloud computing](https://github.com/daxixi/Mentor-Relate/result/cloud%20computing.PNG)
 ## Acknowledgement
 Sincere thanks to professor Liyao Xiang and Dr. Jungang Yang, Dr Hui Xu and Dr Mingze Li for help in this project.
