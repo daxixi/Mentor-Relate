@@ -23,6 +23,6 @@ You can refer to the datailed explanation of algorithm in our report which will 
 ## Demo
 Here is demonstration of some search result
 
-![cloud computing](https://github.com/daxixi/Mentor-Relate/result/cloud%20computing.PNG)
+![cloud computing](https://github.com/daxixi/Mentor-Relate/blob/main/result/cloud%20computing.PNG)
 ## Acknowledgement
 Sincere thanks to professor Liyao Xiang and Dr. Jungang Yang, Dr Hui Xu and Dr Mingze Li for help in this project.
