@@ -1,5 +1,5 @@
 # Mentor-Relate
-This the implementation of a course project in SJTU EE359. Contributor Dixi Yao, Chumeng Liang, Kunhong Hao
+This the implementation of a course project in SJTU EE359. Contributor Dixi Yao, Chumeng Liang, Hongkun Hao
 ## Building Environment
 The frontend is based on the html and css. The backend and the implementation is based on python3. The required package include follows:
 * genism
